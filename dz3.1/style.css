@@ -1,0 +1,52 @@
+body { 
+    background-color: rgb(170, 175, 175);
+  }
+
+  #top-block { 
+    width: 200px;
+    height: 100px;
+    background-color:#99ffe6;
+    margin:20px auto 25px auto;
+    border:dashed red;
+  }
+  #heding-block {
+   width: 200px;
+   height: 100px;
+   background-color: #00b386;
+   margin:20px auto 25px auto;
+   border: 2px dotted;
+   color: red;
+  }
+  #middle-block {
+    width: 200px;
+    height: 100px;
+    background-color:#ffb366;
+    margin:20px auto 25px auto;
+    border: 1rem solid;
+    color: red;
+  }
+  #bottom-block{
+    width: 200px;
+    height: 100px;
+    background-color:#d9b3ff;
+    margin:20px auto 25px auto;
+    border-left: solid; 
+    color: black;
+  }
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
